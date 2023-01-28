@@ -11,10 +11,10 @@ body {
     margin: 0 auto;
     font-weight: 400;
     font-size: 16px;
-    max-width: 1440px;
+    max-width: 1400px;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1400px) {
     body {
         margin: 0 50px;
     }
